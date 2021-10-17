@@ -1,9 +1,9 @@
 {
-    "name": "QueenSewWhatsappBot",
+    "name": "QueenSew",
     "description": "SewQueen - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://i.ibb.co/JkjKGTy/temp-user-profile1621662133773.jpg",
     "keywords": ["whatsapp", "userbot", "sew", "sewqueen", "bot", "api", "ai"],
-    "repository": "",
+    "repository": "https://github.com/pissopissiyo/QueenSew",
     "website":   "https://t.me/RavinduManoj",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
