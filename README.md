@@ -9,7 +9,7 @@
 [![Run on Repl.it](resources/gif/qr-scan.gif?size=40)](https://replit.com/@RavinduManoj/Queen-Sew-QR-Code)
 For Deploy 👇👇👇 බොට්ව සෑදීම සදහා පහත රූපය මත ටච් කරන්න
 
-[![Deploy](resources/.png?size=40)](https://github.com/pissopissiyo/QueenSew.git)
+[![Deploy](resources/.png?size=40)](https://github.com/isuwabrooo/QueenSew.git)
 
 
 #
